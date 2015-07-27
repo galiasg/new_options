@@ -1,0 +1,4 @@
+== README
+
+## new_options: a Rails App created with the -J option, that skips installation of the JavaScript files.
+
